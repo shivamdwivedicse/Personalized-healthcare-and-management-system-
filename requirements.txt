@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+joblib
+spacy
+fuzzywuzzy
+python-Levenshtein
+shap
+plotly
+matplotlib 
+reportlab
